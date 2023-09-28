@@ -1,0 +1,77 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+  display: block;
+  margin-inline: auto;
+  width: 450px;
+  font-family: "Poppins", sans-serif;
+  background-image: url(../img/sfondo.png);
+}
+/* HEADER */
+.box-turquoise {
+  width: 280px;
+  height: 230px;
+  display: inline-block;
+  background-color: rgb(16, 133, 166);
+  box-sizing: border-box;
+  vertical-align: auto;
+  border-radius: 0.5px;
+  box-shadow: 0 2.5px 4px rgb(46, 43, 43);
+  text-align: center;
+  margin: 10px;
+}
+img {
+  padding: 10px;
+  margin: auto;
+  margin-top: 20px;
+}
+span {
+  text-align: center;
+  inline-size: auto;
+  color: white;
+  font-size: smaller;
+  font-weight: 580;
+  letter-spacing: 0.2px;
+}
+.menu * li {
+  color: white;
+  text-align: center;
+  margin-top: 5px;
+  padding: 1px;
+  padding-top: 5px;
+  width: 100%;
+  font-size: smaller;
+  font-weight: 700;
+}
+/* MAIN */
+.box-white {
+  width: 280px;
+  height: 100%;
+  display: inline-block;
+  background-color: rgb(244, 244, 244);
+  box-sizing: border-box;
+  vertical-align: auto;
+  border-radius: 0.5px;
+  box-shadow: 0 2.5px 4px rgb(46, 43, 43);
+  text-align: center;
+  line-height: 30px;
+  margin: 10px;
+}
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+#title {
+  font-size: 30px;
+  font-weight: 500;
+  font-style: "Poppins", sans-serif;
+  line-height: 40px;
+  text-align: left;
+  margin-left: 10px;
+  margin-top: 20px;
+  color: black;
+}
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
